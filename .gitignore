@@ -1,1 +1,4 @@
 ./node_modules
+
+# ignore node modules folder in the root directory
+
