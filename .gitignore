@@ -1,4 +1,9 @@
-./node_modules
+# package directories
+node_modules
+jspm_packages
 
-# ignore node modules folder in the root directory
+# Serverless directories
+.serverless
 
+# dependencies
+/node_modules
