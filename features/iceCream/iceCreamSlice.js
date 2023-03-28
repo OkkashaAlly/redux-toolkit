@@ -29,4 +29,4 @@ const iceCreamSlice = createSlice({
 });
 
 export default iceCreamSlice.reducer;
-export const {orderIceCream, restockIceCream} = iceCreamSlice.actions;
+export const { orderIceCream, restockIceCream } = iceCreamSlice.actions;
